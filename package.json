@@ -1,6 +1,6 @@
 {
   "name": "sails-generate-auth-handlebars",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate a Passport.js authentication layer for your Sails app with basic handlebars templates",
   "author": "Jonathan Limbird <jonathan.limbird@gmail.com>",
   "main": "lib/index.js",
